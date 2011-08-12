@@ -1,5 +1,6 @@
 knockoutDebugCallback([
     'src/namespace.js',
+    'src/jquery.js',
     'src/google-closure-compiler-utils.js',
     'src/utils.js',
     'src/utils.domData.js',

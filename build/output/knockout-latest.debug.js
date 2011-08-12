@@ -4,6 +4,7 @@
 
 (function(window,undefined){ 
 var ko = window["ko"] = {};
+var jQuery = window["jQuery"];
 // Google Closure Compiler helpers (used only to make the minified file smaller)
 ko.exportSymbol = function(publicPath, object) {
 	var tokens = publicPath.split(".");
